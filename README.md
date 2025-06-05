@@ -1,6 +1,7 @@
 # weather
 
-A new Flutter project.
+A new Flutter project with 
+# Bloc state management.
 
 ## Search a city and you will know the weather 
 
